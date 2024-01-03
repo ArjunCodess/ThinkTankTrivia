@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is Python?",
+        "options": [
+            "A type of snake",
+            "A programming language",
+            "A high-performance car",
+            "A species of bird"
+        ],
+        "answer": "A programming language",
+        "description": "Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data science, artificial intelligence, and various other applications."
+    },
+    {
+        "id": 2,
+        "question": "Which symbol is used for comments in Python?",
+        "options": [
+            "#",
+            "//",
+            "--",
+            "/* */"
+        ],
+        "answer": "#",
+        "description": "In Python, the '#' symbol is used for comments. Comments are annotations within the code that are ignored by the Python interpreter. They are helpful for providing explanations and making the code more readable."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of the 'if' statement in Python?",
+        "options": [
+            "To define a function",
+            "To iterate over a sequence",
+            "To make decisions based on conditions",
+            "To handle exceptions"
+        ],
+        "answer": "To make decisions based on conditions",
+        "description": "The 'if' statement in Python is used to make decisions based on specified conditions. It allows the execution of different blocks of code depending on whether a given condition is true or false, enabling the creation of flexible and responsive programs."
+    },
+    {
+        "id": 4,
+        "question": "Which data type is used to store a sequence of ordered and immutable elements in Python?",
+        "options": [
+            "List",
+            "Tuple",
+            "Set",
+            "Dictionary"
+        ],
+        "answer": "Tuple",
+        "description": "In Python, a 'Tuple' is a data type used to store an ordered sequence of elements. Tuples are similar to lists but are immutable, meaning their elements cannot be changed after creation. They are defined using parentheses, e.g., (1, 2, 3)."
+    },
+    {
+        "id": 5,
+        "question": "What is the purpose of the 'for' loop in Python?",
+        "options": [
+            "To define a function",
+            "To iterate over a sequence of elements",
+            "To make decisions based on conditions",
+            "To handle exceptions"
+        ],
+        "answer": "To iterate over a sequence of elements",
+        "description": "The 'for' loop in Python is used to iterate over a sequence of elements (such as a list, tuple, or string) and execute a block of code for each element. It simplifies repetitive tasks and is a key tool for working with collections of data."
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of the 'try' and 'except' blocks in Python?",
+        "options": [
+            "To define a function",
+            "To iterate over a sequence",
+            "To make decisions based on conditions",
+            "To handle exceptions"
+        ],
+        "answer": "To handle exceptions",
+        "description": "The 'try' and 'except' blocks in Python are used for exception handling. Code inside the 'try' block is executed, and if an exception (error) occurs, the control is transferred to the 'except' block. It helps prevent program crashes due to unexpected errors."
+    },
+    {
+        "id": 7,
+        "question": "Which function is used to get the length of a list in Python?",
+        "options": [
+            "length()",
+            "size()",
+            "count()",
+            "len()"
+        ],
+        "answer": "len()",
+        "description": "The 'len()' function is used to get the length (number of elements) of a list in Python. It can be applied to various data types, including lists, strings, and tuples. For example, 'len([1, 2, 3])' returns 3."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the 'else' clause in Python?",
+        "options": [
+            "To define a function",
+            "To iterate over a sequence",
+            "To handle exceptions",
+            "To specify the code to execute when the 'if' condition is false"
+        ],
+        "answer": "To specify the code to execute when the 'if' condition is false",
+        "description": "The 'else' clause in Python is used in conjunction with the 'if' statement to specify the code that should be executed when the condition in the 'if' statement is false. It provides an alternative action when the specified condition is not met."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of the 'range()' function in Python?",
+        "options": [
+            "To generate a sequence of numbers",
+            "To calculate the square root of a number",
+            "To reverse the order of a list",
+            "To convert a string to uppercase"
+        ],
+        "answer": "To generate a sequence of numbers",
+        "description": "The 'range()' function in Python is used to generate a sequence of numbers within a specified range. It is commonly used in 'for' loops to iterate over a sequence of numbers. For example, 'range(5)' generates the sequence [0, 1, 2, 3, 4]."
+    },
+    {
+        "id": 10,
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": [
+            "**",
+            "^",
+            "//",
+            "%%"
+        ],
+        "answer": "**",
+        "description": "The '**' operator is used for exponentiation in Python. It raises the left operand to the power of the right operand. For example, '2**3' evaluates to 8, as it represents 2 raised to the power of 3."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is machine learning?",
+        "options": [
+            "A type of computer programming",
+            "A branch of artificial intelligence",
+            "A method for teaching computers to learn",
+            "A technique for encrypting data"
+        ],
+        "answer": "A branch of artificial intelligence",
+        "description": "Machine learning is a branch of artificial intelligence (AI) that focuses on the development of algorithms and statistical models. It enables computers to improve their performance on a task through experience, without being explicitly programmed. Machine learning is widely used for tasks such as classification, regression, and clustering."
+    },
+    {
+        "id": 2,
+        "question": "What is supervised learning?",
+        "options": [
+            "Learning with a teacher or supervisor",
+            "Learning without guidance",
+            "Learning from historical data",
+            "Learning through reinforcement"
+        ],
+        "answer": "Learning with a teacher or supervisor",
+        "description": "Supervised learning is a type of machine learning where the algorithm is trained on a labeled dataset, meaning that each input is associated with the correct output. The algorithm learns from the labeled examples provided by a teacher or supervisor and can make predictions on new, unseen data."
+    },
+    {
+        "id": 3,
+        "question": "What is an example of an unsupervised learning task?",
+        "options": [
+            "Image classification",
+            "Speech recognition",
+            "Clustering similar documents",
+            "Predicting stock prices"
+        ],
+        "answer": "Clustering similar documents",
+        "description": "Clustering similar documents is an example of unsupervised learning. In unsupervised learning, the algorithm explores patterns and relationships in data without explicit guidance or labeled examples. Clustering involves grouping similar data points together based on their inherent similarities."
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of a neural network in machine learning?",
+        "options": [
+            "Storing large datasets",
+            "Simulating human brain functions",
+            "Performing manual calculations",
+            "Generating random numbers"
+        ],
+        "answer": "Simulating human brain functions",
+        "description": "A neural network in machine learning is a computational model inspired by the structure and functioning of the human brain. It consists of interconnected nodes (neurons) organized in layers. Neural networks are used for tasks such as pattern recognition, classification, and regression."
+    },
+    {
+        "id": 5,
+        "question": "What is overfitting in machine learning?",
+        "options": [
+            "Creating a model that is too simple",
+            "Fitting the model too closely to the training data",
+            "Training the model for too few epochs",
+            "Applying the model to new data"
+        ],
+        "answer": "Fitting the model too closely to the training data",
+        "description": "Overfitting occurs in machine learning when a model is trained too closely to the training data, capturing noise or random fluctuations. As a result, the model may perform well on the training data but generalize poorly to new, unseen data. Overfitting can be addressed by techniques such as regularization."
+    },
+    {
+        "id": 6,
+        "question": "What is the role of feature engineering in machine learning?",
+        "options": [
+            "Building physical devices for data collection",
+            "Extracting meaningful features from raw data",
+            "Creating artificial intelligence agents",
+            "Training neural networks with labeled data"
+        ],
+        "answer": "Extracting meaningful features from raw data",
+        "description": "Feature engineering involves selecting, transforming, or creating features from raw data to improve the performance of machine learning models. Meaningful features help the algorithm better understand the patterns and relationships in the data, leading to more accurate predictions."
+    },
+    {
+        "id": 7,
+        "question": "What is the difference between regression and classification in machine learning?",
+        "options": [
+            "Regression predicts continuous values, while classification predicts categories",
+            "Regression predicts categories, while classification predicts continuous values",
+            "Both regression and classification predict continuous values",
+            "Both regression and classification predict categories"
+        ],
+        "answer": "Regression predicts continuous values, while classification predicts categories",
+        "description": "In machine learning, regression is a type of task that involves predicting continuous values, such as prices or temperatures. Classification, on the other hand, deals with predicting categories or labels, such as spam or not spam. The choice between regression and classification depends on the nature of the output variable."
+    },
+    {
+        "id": 8,
+        "question": "What is reinforcement learning in machine learning?",
+        "options": [
+            "Learning from labeled examples",
+            "Learning without guidance",
+            "Learning through trial and error",
+            "Learning with a teacher or supervisor"
+        ],
+        "answer": "Learning through trial and error",
+        "description": "Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment. The agent receives feedback in the form of rewards or penalties based on its actions. The goal is to learn a policy that maximizes the cumulative reward over time, making decisions through trial and error."
+    },
+    {
+        "id": 9,
+        "question": "What is a confusion matrix in machine learning?",
+        "options": [
+            "A matrix used for data encryption",
+            "A matrix representing relationships between features",
+            "A matrix displaying performance metrics of a classification model",
+            "A matrix used for feature selection"
+        ],
+        "answer": "A matrix displaying performance metrics of a classification model",
+        "description": "A confusion matrix in machine learning is a table that summarizes the performance of a classification model. It presents the counts of true positive, true negative, false positive, and false negative predictions. From the confusion matrix, various metrics such as accuracy, precision, recall, and F1 score can be computed."
+    },
+    {
+        "id": 10,
+        "question": "What is the bias-variance tradeoff in machine learning?",
+        "options": [
+            "Balancing the number of features in a model",
+            "Balancing the training and testing datasets",
+            "Balancing the tradeoff between model complexity and generalization",
+            "Balancing the interpretability of a model"
+        ],
+        "answer": "Balancing the tradeoff between model complexity and generalization",
+        "description": "The bias-variance tradeoff in machine learning refers to the balance between a model's bias (error due to overly simple assumptions) and variance (error due to sensitivity to fluctuations in the training data). Finding the right level of model complexity is crucial for achieving good generalization performance on new, unseen data."
+    }
+]

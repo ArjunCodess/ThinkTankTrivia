@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is Node.js?",
+        "options": [
+            "A web browser",
+            "A server-side JavaScript runtime",
+            "A front-end framework",
+            "A database management system"
+        ],
+        "answer": "A server-side JavaScript runtime",
+        "description": "Node.js is a server-side JavaScript runtime that allows developers to run JavaScript on the server. It is designed for building scalable network applications and is commonly used to create web servers, APIs, and other back-end services."
+    },
+    {
+        "id": 2,
+        "question": "Which package manager is commonly used with Node.js?",
+        "options": [
+            "NPM (Node Package Manager)",
+            "Yarn",
+            "Pip",
+            "Composer"
+        ],
+        "answer": "NPM (Node Package Manager)",
+        "description": "NPM (Node Package Manager) is the default package manager for Node.js. It is used to install, manage, and share packages and dependencies for Node.js applications. NPM simplifies the process of adding libraries or tools to a Node.js project."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of the 'require' function in Node.js?",
+        "options": [
+            "To define a new variable",
+            "To import external modules or files",
+            "To create a loop in the code",
+            "To handle user input"
+        ],
+        "answer": "To import external modules or files",
+        "description": "The 'require' function in Node.js is used to import external modules or files into a Node.js application. It allows developers to reuse code, organize their projects into modular components, and leverage existing libraries to enhance functionality."
+    },
+    {
+        "id": 4,
+        "question": "What is the role of the 'package.json' file in a Node.js project?",
+        "options": [
+            "To store user credentials",
+            "To configure project settings and dependencies",
+            "To define CSS styles for the application",
+            "To create a database connection"
+        ],
+        "answer": "To configure project settings and dependencies",
+        "description": "The 'package.json' file in a Node.js project is used to configure project settings and dependencies. It includes metadata about the project, such as the project name, version, entry point, and a list of dependencies. NPM uses this file to manage project dependencies and scripts."
+    },
+    {
+        "id": 5,
+        "question": "What is the primary use of the 'Express' framework in Node.js?",
+        "options": [
+            "To write unit tests for Node.js applications",
+            "To handle HTTP requests and responses",
+            "To create interactive user interfaces",
+            "To manage database connections"
+        ],
+        "answer": "To handle HTTP requests and responses",
+        "description": "Express is a web application framework for Node.js that simplifies the process of handling HTTP requests and responses. It provides a set of features for building web and mobile applications, including routing, middleware support, and template engines."
+    },
+    {
+        "id": 6,
+        "question": "What is 'npm init' used for in a Node.js project?",
+        "options": [
+            "To install Node.js modules",
+            "To initialize a new Node.js project",
+            "To run unit tests",
+            "To create a database schema"
+        ],
+        "answer": "To initialize a new Node.js project",
+        "description": "'npm init' is a command used in a Node.js project to initialize a new project and create a 'package.json' file. It prompts the user to provide information about the project, such as its name, version, entry point, and test command."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of the 'fs' module in Node.js?",
+        "options": [
+            "To create a file server",
+            "To format strings",
+            "To manage file system operations",
+            "To handle HTTP requests"
+        ],
+        "answer": "To manage file system operations",
+        "description": "The 'fs' module in Node.js is used to perform file system operations, such as reading from or writing to files. It provides methods for interacting with the file system, allowing developers to manipulate files and directories in a Node.js application."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the 'npm install' command in a Node.js project?",
+        "options": [
+            "To start the application server",
+            "To install project dependencies",
+            "To create a new module",
+            "To configure environment variables"
+        ],
+        "answer": "To install project dependencies",
+        "description": "'npm install' is a command in a Node.js project used to install project dependencies listed in the 'package.json' file. It reads the dependencies section and fetches the required packages from the NPM registry, adding them to the 'node_modules' folder."
+    },
+    {
+        "id": 9,
+        "question": "What is the role of middleware in an Express application?",
+        "options": [
+            "To handle database connections",
+            "To authenticate users",
+            "To process HTTP requests and responses",
+            "To create responsive user interfaces"
+        ],
+        "answer": "To process HTTP requests and responses",
+        "description": "Middleware in an Express application is a function that has access to the request, response, and the next function in the application’s request-response cycle. It can modify the request or response, terminate the request-response cycle, or pass control to the next middleware function in the stack."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the 'nodemon' package in a Node.js project?",
+        "options": [
+            "To monitor changes in the file system and automatically restart the server",
+            "To generate random numbers",
+            "To encrypt user passwords",
+            "To validate form submissions"
+        ],
+        "answer": "To monitor changes in the file system and automatically restart the server",
+        "description": "The 'nodemon' package in a Node.js project is used to monitor changes in the file system and automatically restart the server when changes are detected. It helps developers during the development process by saving time and effort in manually restarting the server after code changes."
+    }
+]

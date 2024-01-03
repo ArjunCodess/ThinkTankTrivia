@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "quiz": "HTML Basics",
+        "description": "Test your knowledge of basic HTML concepts and tags.",
+        "topics": [
+            "HTML",
+            "Web Development"
+        ],
+        "link": "/quiz/html"
+    },
+    {
+        "id": 2,
+        "quiz": "CSS Fundamentals",
+        "description": "Explore the fundamentals of Cascading Style Sheets (CSS).",
+        "topics": [
+            "CSS",
+            "Web Design"
+        ],
+        "link": "/quiz/css"
+    },
+    {
+        "id": 3,
+        "quiz": "JavaScript Essentials",
+        "description": "Challenge yourself with essential JavaScript concepts and syntax.",
+        "topics": [
+            "JavaScript",
+            "Programming"
+        ],
+        "link": "/quiz/javascript"
+    },
+    {
+        "id": 4,
+        "quiz": "Web Development Basics",
+        "description": "Test your knowledge of basic web development concepts.",
+        "topics": [
+            "Web Development"
+        ],
+        "link": "/quiz/webdev"
+    },
+    {
+        "id": 5,
+        "quiz": "React.js Mastery",
+        "description": "Test your expertise in building applications with React.js.",
+        "topics": [
+            "React.js",
+            "Frontend Development"
+        ],
+        "link": "/quiz/reactjs"
+    },
+    {
+        "id": 6,
+        "quiz": "Node.js Basics",
+        "description": "Explore the basics of server-side JavaScript with Node.js.",
+        "topics": [
+            "Node.js",
+            "Backend Development"
+        ],
+        "link": "/quiz/nodejs"
+    },
+    {
+        "id": 7,
+        "quiz": "SQL Fundamentals",
+        "description": "Test your understanding of basic SQL concepts and queries.",
+        "topics": [
+            "SQL",
+            "Database"
+        ],
+        "link": "/quiz/sql"
+    },
+    {
+        "id": 8,
+        "quiz": "Python Programming",
+        "description": "Challenge yourself with Python programming questions and exercises.",
+        "topics": [
+            "Python",
+            "Programming"
+        ],
+        "link": "/quiz/python"
+    },
+    {
+        "id": 9,
+        "quiz": "Responsive Web Design",
+        "description": "Explore the principles and techniques of responsive web design.",
+        "topics": [
+            "Web Design",
+            "CSS"
+        ],
+        "link": "/quiz/responsivedesign"
+    },
+    {
+        "id": 10,
+        "quiz": "Git and Version Control",
+        "description": "Test your knowledge of Git and version control practices.",
+        "topics": [
+            "Git",
+            "Version Control"
+        ],
+        "link": "/quiz/git"
+    },
+    {
+        "id": 11,
+        "quiz": "Machine Learning Basics",
+        "description": "Explore the fundamental concepts of machine learning and AI.",
+        "topics": [
+            "Machine Learning",
+            "Artificial Intelligence"
+        ],
+        "link": "/quiz/machinelearning"
+    }
+]

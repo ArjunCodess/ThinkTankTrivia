@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is version control?",
+        "options": [
+            "Managing different software versions",
+            "Tracking and managing changes to files over time",
+            "Controlling access to software repositories",
+            "Automating software deployments"
+        ],
+        "answer": "Tracking and managing changes to files over time",
+        "description": "Version control is a system that tracks and manages changes to files over time. It allows multiple contributors to collaborate on a project, keeps a historical record of changes, and enables the restoration of previous versions. Git is a popular distributed version control system widely used in software development."
+    },
+    {
+        "id": 2,
+        "question": "What is Git, and what role does it play in version control?",
+        "options": [
+            "A social media platform for developers",
+            "A version control system for tracking changes",
+            "A programming language for web development",
+            "A tool for automated testing"
+        ],
+        "answer": "A version control system for tracking changes",
+        "description": "Git is a distributed version control system used for tracking changes in source code during software development. It allows developers to collaborate efficiently, maintain a history of changes, and work on different branches simultaneously. Git is widely adopted for its speed, flexibility, and decentralized nature."
+    },
+    {
+        "id": 3,
+        "question": "What is a 'commit' in Git?",
+        "options": [
+            "A collaborative coding session",
+            "A record of changes to a repository",
+            "A unit of code execution",
+            "A permission to access a repository"
+        ],
+        "answer": "A record of changes to a repository",
+        "description": "In Git, a 'commit' is a record of changes to a repository. It represents a snapshot of the repository at a specific point in time and includes the changes made to files. Commits help in tracking the history of a project and serve as checkpoints that can be referenced or reverted to if needed."
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of Git branches?",
+        "options": [
+            "Creating isolated environments for testing",
+            "Storing binary files in a repository",
+            "Encrypting repository data",
+            "Managing user access to repositories"
+        ],
+        "answer": "Creating isolated environments for testing",
+        "description": "Git branches are used to create isolated environments for testing and developing new features. Each branch represents an independent line of development, allowing developers to work on features or fixes without affecting the main codebase. Branches can be merged back into the main branch when changes are ready to be incorporated."
+    },
+    {
+        "id": 5,
+        "question": "What is a 'merge' in Git?",
+        "options": [
+            "Combining changes from different branches",
+            "Creating a new Git repository",
+            "Removing files from a repository",
+            "Renaming a repository"
+        ],
+        "answer": "Combining changes from different branches",
+        "description": "In Git, a 'merge' is the process of combining changes from different branches into a single branch. It integrates the changes made in one branch with another, typically merging feature branches into the main branch. A successful merge results in a combined history that includes the changes from both branches."
+    },
+    {
+        "id": 6,
+        "question": "What is a 'pull request' in Git?",
+        "options": [
+            "A request for repository deletion",
+            "A request to retrieve the latest changes",
+            "A request for code review and merging",
+            "A request for creating a new branch"
+        ],
+        "answer": "A request for code review and merging",
+        "description": "A 'pull request' in Git is a request for code review and merging changes from one branch into another. It is commonly used in collaborative development environments where team members contribute to a project. Pull requests provide a structured way to review, discuss, and merge code changes."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of Git's 'fork' operation?",
+        "options": [
+            "Creating a copy of a repository in your account",
+            "Reverting changes in a repository",
+            "Deleting branches in a repository",
+            "Generating random code in a repository"
+        ],
+        "answer": "Creating a copy of a repository in your account",
+        "description": "In Git, 'forking' a repository involves creating a personal copy of someone else's repository in your account. It allows you to freely experiment with changes without affecting the original repository. Forking is often used in open-source collaboration, enabling contributors to propose changes through pull requests."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the Git 'clone' command?",
+        "options": [
+            "Creating a new branch",
+            "Copying a repository to your local machine",
+            "Deleting a remote repository",
+            "Creating a compressed backup of a repository"
+        ],
+        "answer": "Copying a repository to your local machine",
+        "description": "The Git 'clone' command is used to copy a repository from a remote source (such as GitHub) to your local machine. It creates a local copy of the entire repository, including its files, commit history, and branches. Cloning is a common initial step when starting to work on an existing project."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of the '.gitignore' file in Git?",
+        "options": [
+            "Listing contributors to the repository",
+            "Ignoring specific files and directories",
+            "Defining repository access permissions",
+            "Storing user authentication tokens"
+        ],
+        "answer": "Ignoring specific files and directories",
+        "description": "The '.gitignore' file in Git is used to specify files and directories that should be ignored by version control. It helps avoid cluttering the repository with unnecessary files, such as temporary files, build artifacts, or sensitive information. The '.gitignore' file enhances the cleanliness and focus of a repository."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the Git 'push' command?",
+        "options": [
+            "Deleting a remote branch",
+            "Updating the local repository",
+            "Pushing changes to a remote repository",
+            "Creating a new Git repository"
+        ],
+        "answer": "Pushing changes to a remote repository",
+        "description": "The Git 'push' command is used to upload local changes to a remote repository. After making local commits, developers use 'push' to share those changes with collaborators or update the central repository. It plays a crucial role in collaborative development, ensuring that changes are reflected across the team's shared codebase."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is React.js?",
+        "options": [
+            "A programming language",
+            "A database management system",
+            "A JavaScript library for building user interfaces",
+            "A server-side scripting language"
+        ],
+        "answer": "A JavaScript library for building user interfaces",
+        "description": "React.js is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of an application efficiently, making it popular for building single-page applications and dynamic user interfaces."
+    },
+    {
+        "id": 2,
+        "question": "What is JSX in React.js?",
+        "options": [
+            "A file extension for JavaScript files",
+            "A syntax extension for JavaScript recommended by React",
+            "A component lifecycle method",
+            "A JavaScript testing framework"
+        ],
+        "answer": "A syntax extension for JavaScript recommended by React",
+        "description": "JSX (JavaScript XML) is a syntax extension for JavaScript recommended by React. It allows you to write HTML elements and components in a syntax that looks similar to XML or HTML. JSX is then transpiled to JavaScript for the browser to understand."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of state in React.js?",
+        "options": [
+            "Managing external APIs",
+            "Storing data that may change over time",
+            "Defining the structure of a component",
+            "Controlling the layout of a web page"
+        ],
+        "answer": "Storing data that may change over time",
+        "description": "In React.js, state is used for storing data that may change over time. Components can have their own state, allowing them to manage and update their data independently. State is essential for building dynamic and interactive user interfaces."
+    },
+    {
+        "id": 4,
+        "question": "What is a React component?",
+        "options": [
+            "A reusable piece of code responsible for rendering UI elements",
+            "A data structure for storing information",
+            "A database table in React applications",
+            "A function for handling HTTP requests"
+        ],
+        "answer": "A reusable piece of code responsible for rendering UI elements",
+        "description": "A React component is a reusable piece of code responsible for rendering UI elements. Components can be class-based or functional, and they encapsulate the logic and presentation of a part of the user interface. They can be composed to build complex UI structures."
+    },
+    {
+        "id": 5,
+        "question": "What is the significance of the virtual DOM in React.js?",
+        "options": [
+            "It stores data locally on the user's device",
+            "It provides a virtual environment for testing components",
+            "It optimizes rendering by updating only changed elements",
+            "It manages the routing in a React application"
+        ],
+        "answer": "It optimizes rendering by updating only changed elements",
+        "description": "The virtual DOM (Document Object Model) in React.js is a lightweight copy of the real DOM. React uses it to optimize rendering by updating only the changed elements instead of re-rendering the entire DOM. This improves performance and makes React applications more efficient."
+    },
+    {
+        "id": 6,
+        "question": "What is the role of props in React.js?",
+        "options": [
+            "A file extension for React components",
+            "A data store for storing component-specific information",
+            "An object that contains data passed to a component",
+            "A method for handling user interactions"
+        ],
+        "answer": "An object that contains data passed to a component",
+        "description": "Props (short for properties) in React.js are an object that contains data passed to a component. They allow the parent component to pass dynamic data to its child components. Props are immutable and are used to customize the behavior and appearance of components."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of the 'useState' hook in React?",
+        "options": [
+            "Handling HTTP requests",
+            "Managing component state in functional components",
+            "Defining CSS styles for components",
+            "Creating global variables in React applications"
+        ],
+        "answer": "Managing component state in functional components",
+        "description": "The 'useState' hook in React is used for managing component state in functional components. It allows functional components to have stateful logic, enabling them to update and re-render based on changes in state. 'useState' returns the current state and a function to update it."
+    },
+    {
+        "id": 8,
+        "question": "What is React Router used for?",
+        "options": [
+            "Handling form submissions",
+            "Managing state in React applications",
+            "Implementing client-side routing in single-page applications",
+            "Connecting React components to a database"
+        ],
+        "answer": "Implementing client-side routing in single-page applications",
+        "description": "React Router is used for implementing client-side routing in single-page applications built with React.js. It enables navigation between different components or views without triggering a full page reload. React Router helps create a smooth and seamless user experience."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of the 'componentDidMount' lifecycle method in React?",
+        "options": [
+            "Rendering UI components",
+            "Handling user interactions",
+            "Executing code after a component has mounted",
+            "Updating component state"
+        ],
+        "answer": "Executing code after a component has mounted",
+        "description": "The 'componentDidMount' lifecycle method in React is invoked immediately after a component has been inserted into the DOM. It is commonly used for tasks such as fetching data from a server, initializing subscriptions, or performing other actions that need to occur once the component is mounted."
+    },
+    {
+        "id": 10,
+        "question": "What is React's context API used for?",
+        "options": [
+            "Styling components",
+            "Sharing state between components without passing props",
+            "Managing global variables in React applications",
+            "Optimizing the rendering of components"
+        ],
+        "answer": "Sharing state between components without passing props",
+        "description": "React's context API is used for sharing state between components without passing props through every level of the component tree. It provides a way to pass data through the component tree without having to pass props down manually at every level, making state management more efficient."
+    }
+]

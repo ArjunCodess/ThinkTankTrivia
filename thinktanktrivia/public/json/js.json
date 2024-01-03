@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+        "options": [
+            "Checking the type of a variable",
+            "Creating a new variable",
+            "Concatenating strings",
+            "Defining a function"
+        ],
+        "answer": "Checking the type of a variable",
+        "description": "The 'typeof' operator in JavaScript is used for checking the type of a variable. It returns a string indicating the data type of the operand, such as 'number', 'string', 'object', etc."
+    },
+    {
+        "id": 2,
+        "question": "What is the difference between 'let', 'const', and 'var' for variable declaration?",
+        "options": [
+            "'let' and 'const' are block-scoped, while 'var' is function-scoped",
+            "'let' is used for numbers, 'const' for strings, and 'var' for booleans",
+            "'const' cannot be reassigned, 'let' can be reassigned, and 'var' is obsolete",
+            "There is no difference; they are interchangeable"
+        ],
+        "answer": "'let' and 'const' are block-scoped, while 'var' is function-scoped",
+        "description": "'let' and 'const' are block-scoped declarations introduced in ECMAScript 6 (ES6). They are scoped to the block, statement, or expression on which they are used. 'var' is function-scoped, and it is globally or locally scoped to the function where it is declared."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of the 'forEach' method in JavaScript?",
+        "options": [
+            "Creating a new array",
+            "Iterating over elements of an array",
+            "Sorting an array",
+            "Filtering elements of an array"
+        ],
+        "answer": "Iterating over elements of an array",
+        "description": "The 'forEach' method in JavaScript is used for iterating over elements of an array. It executes a provided function once for each array element, allowing you to perform an operation on each element."
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of the 'JSON.stringify' method in JavaScript?",
+        "options": [
+            "Parsing JSON data",
+            "Converting a JavaScript object to a JSON string",
+            "Parsing a JSON string",
+            "Modifying a JSON object"
+        ],
+        "answer": "Converting a JavaScript object to a JSON string",
+        "description": "The 'JSON.stringify' method in JavaScript is used for converting a JavaScript object to a JSON-formatted string. It serializes the JavaScript object, transforming it into a string representation that can be transmitted or stored."
+    },
+    {
+        "id": 5,
+        "question": "What is the purpose of the 'arrow functions' in JavaScript?",
+        "options": [
+            "Creating geometric shapes",
+            "Defining functions with concise syntax",
+            "Declaring functions with explicit 'function' keyword",
+            "Performing mathematical calculations"
+        ],
+        "answer": "Defining functions with concise syntax",
+        "description": "Arrow functions in JavaScript provide a concise syntax for defining functions. They are a shorter way to write function expressions and do not bind their own 'this', making them especially useful in callback functions."
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of the 'localStorage' in JavaScript?",
+        "options": [
+            "Storing data on the server",
+            "Storing data in a database",
+            "Storing data on the client-side",
+            "Storing data in cookies"
+        ],
+        "answer": "Storing data on the client-side",
+        "description": "The 'localStorage' in JavaScript is used for storing data on the client-side. It provides a simple key-value storage mechanism that persists even after the browser is closed and reopened."
+    },
+    {
+        "id": 7,
+        "question": "What does the term 'hoisting' refer to in JavaScript?",
+        "options": [
+            "Lifting heavy objects in the gym",
+            "Raising variables and function declarations to the top of their containing scope",
+            "Animating elements on a web page",
+            "Modifying the appearance of an element"
+        ],
+        "answer": "Raising variables and function declarations to the top of their containing scope",
+        "description": "Hoisting in JavaScript refers to the behavior where variable and function declarations are moved to the top of their containing scope during the compilation phase. This allows you to use variables and functions before they are declared in the code."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the 'Promise' object in JavaScript?",
+        "options": [
+            "Ensuring code quality",
+            "Handling asynchronous operations and callbacks",
+            "Creating responsive user interfaces",
+            "Defining CSS styles"
+        ],
+        "answer": "Handling asynchronous operations and callbacks",
+        "description": "The 'Promise' object in JavaScript is used for handling asynchronous operations and callbacks. It represents the eventual completion or failure of an asynchronous operation and allows you to attach callbacks that will be executed when the operation is fulfilled or rejected."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of the 'spread operator' (...) in JavaScript?",
+        "options": [
+            "Concatenating strings",
+            "Copying an array or object",
+            "Multiplying numbers",
+            "Declaring variables"
+        ],
+        "answer": "Copying an array or object",
+        "description": "The 'spread operator' (...) in JavaScript is used for copying the elements of an array or the properties of an object. It allows you to create a shallow copy of an array or object, making it useful for tasks like array concatenation or object merging."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+        "options": [
+            "Throwing errors intentionally",
+            "Testing the performance of code",
+            "Handling exceptions and errors",
+            "Defining conditional statements"
+        ],
+        "answer": "Handling exceptions and errors",
+        "description": "The 'try...catch' statement in JavaScript is used for handling exceptions and errors. It allows you to wrap a block of code in a 'try' block and specify the actions to be taken in case an exception occurs in the 'catch' block."
+    }
+]

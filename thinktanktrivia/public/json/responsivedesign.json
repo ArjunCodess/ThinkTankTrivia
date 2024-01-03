@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is responsive web design?",
+        "options": [
+            "Designing visually appealing websites",
+            "Creating mobile applications",
+            "Designing websites that adapt to different screen sizes",
+            "Implementing secure server configurations"
+        ],
+        "answer": "Designing websites that adapt to different screen sizes",
+        "description": "Responsive web design refers to the practice of creating websites that can adapt and provide an optimal viewing experience across various devices and screen sizes, including desktops, tablets, and mobile phones. It involves using flexible layouts and media queries to achieve responsiveness."
+    },
+    {
+        "id": 2,
+        "question": "What is a media query in the context of responsive web design?",
+        "options": [
+            "A query to search for media files",
+            "A question about social media integration",
+            "A way to access multimedia content",
+            "A conditional statement to apply styles based on device characteristics"
+        ],
+        "answer": "A conditional statement to apply styles based on device characteristics",
+        "description": "In responsive web design, a media query is a conditional statement used in CSS to apply different styles based on various device characteristics such as screen width, height, and resolution. Media queries enable designers to create styles tailored to specific devices or screen conditions."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of a viewport meta tag in HTML for responsive design?",
+        "options": [
+            "Controlling browser compatibility",
+            "Defining the document's character set",
+            "Setting the background color of a page",
+            "Adjusting the layout for different devices"
+        ],
+        "answer": "Adjusting the layout for different devices",
+        "description": "The 'viewport' meta tag in HTML is used to control the width and scaling of the viewport, allowing web developers to optimize the layout of a webpage for various devices and screen sizes. It is crucial for achieving responsive design by ensuring proper rendering on different screens."
+    },
+    {
+        "id": 4,
+        "question": "What is a fluid grid in responsive web design?",
+        "options": [
+            "A grid for fluid animations",
+            "A grid made of liquid materials",
+            "A flexible grid layout that uses relative units",
+            "A grid for water-related content"
+        ],
+        "answer": "A flexible grid layout that uses relative units",
+        "description": "A fluid grid in responsive web design is a layout structure that uses relative units (such as percentages) instead of fixed units (like pixels). This allows the grid to adapt and scale based on the screen size, ensuring that the design remains proportional and visually appealing on different devices."
+    },
+    {
+        "id": 5,
+        "question": "What is the role of CSS flexbox in responsive web design?",
+        "options": [
+            "Creating flexible images",
+            "Implementing responsive typography",
+            "Creating fluid grid layouts",
+            "Handling page transitions"
+        ],
+        "answer": "Creating flexible grid layouts",
+        "description": "CSS flexbox is a layout model that allows the creation of flexible and responsive grid layouts. It enables designers to design complex layouts with a more efficient and predictable structure. Flexbox is particularly useful for building responsive navigation bars and equal-height columns."
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of the CSS 'max-width' property in responsive design?",
+        "options": [
+            "Setting a maximum font size",
+            "Limiting the width of an element",
+            "Defining the maximum number of columns",
+            "Setting the maximum image resolution"
+        ],
+        "answer": "Limiting the width of an element",
+        "description": "The 'max-width' property in CSS is used to limit the maximum width of an element. In responsive design, it is often applied to images, containers, or other elements to prevent them from exceeding a certain width on smaller screens. This helps maintain readability and aesthetics on different devices."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of the CSS 'media' attribute in link elements?",
+        "options": [
+            "Embedding media files",
+            "Defining media types for stylesheets",
+            "Specifying media queries for JavaScript",
+            "Enabling media playback in the browser"
+        ],
+        "answer": "Defining media types for stylesheets",
+        "description": "The 'media' attribute in link elements is used to specify the media type for which the linked stylesheet is intended. It allows designers to apply different stylesheets based on factors like screen size, device capabilities, and more. This is a key aspect of achieving responsive design."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the CSS 'rem' unit in responsive typography?",
+        "options": [
+            "Relative to the root element's font-size",
+            "Relative to the screen resolution",
+            "Relative to the viewport width",
+            "Relative to the element's margin"
+        ],
+        "answer": "Relative to the root element's font-size",
+        "description": "The 'rem' unit in CSS stands for 'root em' and is relative to the font-size of the root element (usually the <html> element). It is commonly used in responsive typography to ensure that text scales proportionally with the root font-size, providing a consistent and adaptable reading experience."
+    },
+    {
+        "id": 9,
+        "question": "What is the role of the CSS 'flex-grow' property in flexbox layouts?",
+        "options": [
+            "Determining the initial size of a flex item",
+            "Controlling the growth of a flex container",
+            "Defining the order of flex items",
+            "Setting the maximum growth factor for a flex item"
+        ],
+        "answer": "Controlling the growth of a flex container",
+        "description": "The 'flex-grow' property in CSS is used in flexbox layouts to control the distribution of available space within a flex container. It determines the ability of a flex item to grow relative to other items in the container. A higher 'flex-grow' value means a higher capacity for growth."
+    },
+    {
+        "id": 10,
+        "question": "How can you test the responsiveness of a website during development?",
+        "options": [
+            "Wait for user feedback",
+            "Use a responsive design simulator",
+            "Check the website on a single device",
+            "Use a fixed-width layout"
+        ],
+        "answer": "Use a responsive design simulator",
+        "description": "To test the responsiveness of a website during development, developers can use responsive design simulators or browser developer tools. These tools allow them to preview how the website will appear on various devices and screen sizes, helping ensure a consistent and user-friendly experience."
+    }
+]

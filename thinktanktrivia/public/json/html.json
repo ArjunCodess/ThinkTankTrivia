@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is the purpose of HTML in web development?",
+        "options": [
+            "Styling web pages",
+            "Defining data structures",
+            "Programming server-side logic",
+            "Creating the structure of web pages"
+        ],
+        "answer": "Creating the structure of web pages",
+        "description": "HTML (Hypertext Markup Language) is the standard markup language for creating the structure of web pages. It defines the elements and their arrangement, allowing browsers to interpret and display content on the internet."
+    },
+    {
+        "id": 2,
+        "question": "Which HTML tag is used for creating hyperlinks?",
+        "options": [
+            "<a>",
+            "<h1>",
+            "<p>",
+            "<div>"
+        ],
+        "answer": "<a>",
+        "description": "The <a> (anchor) tag in HTML is used for creating hyperlinks. It allows users to navigate to another page, resource, or location by clicking on the link."
+    },
+    {
+        "id": 3,
+        "question": "What does the acronym HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High-Level Textual Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlink and Text Management Language"
+        ],
+        "answer": "Hyper Text Markup Language",
+        "description": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating documents designed to be displayed in a web browser."
+    },
+    {
+        "id": 4,
+        "question": "Which HTML tag is used for inserting an image?",
+        "options": [
+            "<img>",
+            "<picture>",
+            "<figure>",
+            "<image>"
+        ],
+        "answer": "<img>",
+        "description": "The <img> tag in HTML is used for inserting an image. It requires the 'src' attribute to specify the image source."
+    },
+    {
+        "id": 5,
+        "question": "In HTML, which tag is used for creating an unordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<dl>"
+        ],
+        "answer": "<ul>",
+        "description": "The <ul> (unordered list) tag in HTML is used for creating an unordered list. It typically contains <li> (list item) tags for each item in the list."
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of the 'DOCTYPE' declaration in HTML?",
+        "options": [
+            "Defining the document type and version",
+            "Styling the document",
+            "Creating a hyperlink",
+            "Specifying the document's background color"
+        ],
+        "answer": "Defining the document type and version",
+        "description": "The 'DOCTYPE' declaration in HTML is used to define the document type and version. It helps browsers interpret the document correctly and render it in the specified mode."
+    },
+    {
+        "id": 7,
+        "question": "Which HTML tag is used for defining the structure of a table?",
+        "options": [
+            "<table>",
+            "<tr>",
+            "<td>",
+            "<th>"
+        ],
+        "answer": "<table>",
+        "description": "The <table> tag in HTML is used for defining the structure of a table. It contains other tags such as <tr> (table row), <td> (table data), and <th> (table heading) to organize content."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the 'alt' attribute in an <img> tag?",
+        "options": [
+            "Aligning the image",
+            "Defining the image source",
+            "Providing alternative text for accessibility",
+            "Setting the image size"
+        ],
+        "answer": "Providing alternative text for accessibility",
+        "description": "The 'alt' attribute in an <img> tag is used for providing alternative text for accessibility. It describes the content of the image and is displayed if the image cannot be loaded."
+    },
+    {
+        "id": 9,
+        "question": "Which HTML tag is used for creating a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "<a>",
+        "description": "The <a> (anchor) tag in HTML is used for creating hyperlinks. It allows users to navigate to another page, resource, or location by clicking on the link."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "options": [
+            "Defining the main content of the page",
+            "Setting the background color",
+            "Including scripts and metadata",
+            "Creating a page layout"
+        ],
+        "answer": "Including scripts and metadata",
+        "description": "The <head> tag in HTML is used for including scripts and metadata that provide information about the document. It contains elements such as <title>, <meta>, and <link>."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary purpose of HTML in web development?",
+        "options": [
+            "Styling web pages",
+            "Defining data structures",
+            "Programming server-side logic",
+            "Creating the structure of web pages"
+        ],
+        "answer": "Creating the structure of web pages",
+        "description": "HTML (Hypertext Markup Language) is the standard markup language for creating the structure of web pages. It defines the elements and their arrangement, allowing browsers to interpret and display content on the internet."
+    },
+    {
+        "id": 2,
+        "question": "What does CSS stand for in web development?",
+        "options": [
+            "Computer Style Sheets",
+            "Creative Style System",
+            "Cascading Style Sheets",
+            "Colorful Style Scripts"
+        ],
+        "answer": "Cascading Style Sheets",
+        "description": "CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It controls the presentation, layout, and design of web pages, including aspects such as colors, fonts, and spacing."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a popular front-end JavaScript framework?",
+        "options": [
+            "Express.js",
+            "Vue.js",
+            "Django",
+            "Flask"
+        ],
+        "answer": "Vue.js",
+        "description": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is commonly used on the front end to create dynamic and reactive web applications. Vue.js is known for its simplicity and flexibility."
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of a web server in web development?",
+        "options": [
+            "Managing databases",
+            "Rendering user interfaces",
+            "Storing client-side scripts",
+            "Handling HTTP requests and responses"
+        ],
+        "answer": "Handling HTTP requests and responses",
+        "description": "A web server is a software or hardware component that handles HTTP (Hypertext Transfer Protocol) requests and responses. It serves web pages to clients, manages communication between clients and servers, and facilitates the processing of dynamic content."
+    },
+    {
+        "id": 5,
+        "question": "What does the term 'responsive design' refer to in web development?",
+        "options": [
+            "Designing visually appealing websites",
+            "Creating mobile applications",
+            "Designing websites that adapt to different screen sizes",
+            "Implementing secure server configurations"
+        ],
+        "answer": "Designing websites that adapt to different screen sizes",
+        "description": "Responsive design in web development refers to the practice of creating websites that can adapt and provide an optimal viewing experience across various devices and screen sizes, including desktops, tablets, and mobile phones."
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of a database in web development?",
+        "options": [
+            "Managing user authentication",
+            "Storing and retrieving data",
+            "Executing client-side scripts",
+            "Handling HTTP requests"
+        ],
+        "answer": "Storing and retrieving data",
+        "description": "In web development, databases are used to store and retrieve data efficiently. They play a crucial role in managing information, supporting applications with persistent data storage, and enabling data-driven functionality."
+    },
+    {
+        "id": 7,
+        "question": "Which programming language is commonly used for server-side scripting?",
+        "options": [
+            "JavaScript",
+            "Python",
+            "Ruby",
+            "PHP"
+        ],
+        "answer": "PHP",
+        "description": "PHP (Hypertext Preprocessor) is a widely-used server-side scripting language in web development. It is embedded in HTML code and executed on the server, allowing developers to create dynamic web pages, handle forms, and interact with databases."
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the 'box model' in CSS?",
+        "options": [
+            "Creating 3D effects",
+            "Defining layout properties",
+            "Managing animation sequences",
+            "Handling user interactions"
+        ],
+        "answer": "Defining layout properties",
+        "description": "The 'box model' in CSS refers to the way elements are structured in terms of content, padding, border, and margin. It is used for defining the layout properties of elements, influencing their positioning and spacing within a web page."
+    },
+    {
+        "id": 9,
+        "question": "What does API stand for in web development?",
+        "options": [
+            "Application Programming Interface",
+            "Advanced Programming Instruction",
+            "Automated Processing Interface",
+            "Accessible Program Integration"
+        ],
+        "answer": "Application Programming Interface",
+        "description": "API (Application Programming Interface) in web development is a set of rules and tools that allows different software applications to communicate with each other. It defines how software components should interact, facilitating the integration of services and functionalities."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the 'viewport' meta tag in HTML?",
+        "options": [
+            "Controlling browser compatibility",
+            "Defining the document's character set",
+            "Setting the background color of a page",
+            "Adjusting the layout for different devices"
+        ],
+        "answer": "Adjusting the layout for different devices",
+        "description": "The 'viewport' meta tag in HTML is used to control the width and scaling of the viewport, allowing web developers to optimize the layout of a webpage for various devices and screen sizes. It is crucial for achieving responsive design."
+    }
+]

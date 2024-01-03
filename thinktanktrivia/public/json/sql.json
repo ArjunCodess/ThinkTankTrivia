@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What does SQL stand for?",
+        "options": [
+            "Structured Language",
+            "Sequential Language",
+            "Standardized Language",
+            "Structured Query Language"
+        ],
+        "answer": "Structured Query Language",
+        "description": "SQL stands for Structured Query Language. It is a domain-specific language used for managing and manipulating relational databases. SQL is commonly used for tasks such as querying data, updating records, and defining the structure of databases."
+    },
+    {
+        "id": 2,
+        "question": "Which SQL keyword is used to retrieve specific columns in a SELECT statement?",
+        "options": [
+            "FETCH",
+            "EXTRACT",
+            "SELECT",
+            "FROM"
+        ],
+        "answer": "SELECT",
+        "description": "The SELECT keyword in SQL is used to retrieve specific columns from one or more tables in a database. It allows you to specify the columns you want to include in the result set, helping to filter and organize the retrieved data."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of the WHERE clause in an SQL query?",
+        "options": [
+            "To specify the tables involved in the query",
+            "To filter rows based on a condition",
+            "To order the result set",
+            "To perform aggregate functions"
+        ],
+        "answer": "To filter rows based on a condition",
+        "description": "The WHERE clause in an SQL query is used to filter rows based on a specified condition. It allows you to retrieve only those rows that meet a particular criteria, making it a powerful tool for narrowing down the results of a query."
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of the GROUP BY clause in SQL?",
+        "options": [
+            "To join multiple tables",
+            "To filter rows in a result set",
+            "To group rows based on a common value",
+            "To order the result set in descending order"
+        ],
+        "answer": "To group rows based on a common value",
+        "description": "The GROUP BY clause in SQL is used to group rows that have the same values in specified columns into summary rows, like 'total' or 'average.' It is often used in conjunction with aggregate functions such as COUNT, SUM, AVG, MAX, or MIN."
+    },
+    {
+        "id": 5,
+        "question": "What SQL statement is used to update data in a database?",
+        "options": [
+            "UPDATE",
+            "MODIFY",
+            "ALTER",
+            "CHANGE"
+        ],
+        "answer": "UPDATE",
+        "description": "The UPDATE statement in SQL is used to modify the existing records in a table. It allows you to change the values of specific columns based on a condition, updating data in the database to reflect new information or corrections."
+    },
+    {
+        "id": 6,
+        "question": "In SQL, what is the purpose of the JOIN clause?",
+        "options": [
+            "To sort the result set",
+            "To combine rows from two or more tables",
+            "To filter rows based on a condition",
+            "To group rows based on a common value"
+        ],
+        "answer": "To combine rows from two or more tables",
+        "description": "The JOIN clause in SQL is used to combine rows from two or more tables based on a related column between them. It allows you to retrieve data from multiple tables in a single query, providing a way to represent complex relationships in a relational database."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of the SQL ORDER BY clause?",
+        "options": [
+            "To filter rows based on a condition",
+            "To group rows based on a common value",
+            "To sort the result set in ascending or descending order",
+            "To limit the number of rows returned by a query"
+        ],
+        "answer": "To sort the result set in ascending or descending order",
+        "description": "The SQL ORDER BY clause is used to sort the result set of a query in either ascending (ASC) or descending (DESC) order based on one or more columns. It is often used to organize the retrieved data for better readability."
+    },
+    {
+        "id": 8,
+        "question": "What does the SQL acronym ACID stand for in the context of database transactions?",
+        "options": [
+            "Atomicity, Consistency, Isolation, Durability",
+            "Association, Classification, Inheritance, Division",
+            "Aggregate, Compute, Insert, Delete",
+            "Advanced, Customizable, Integrated, Distributed"
+        ],
+        "answer": "Atomicity, Consistency, Isolation, Durability",
+        "description": "In the context of database transactions, the SQL acronym ACID stands for Atomicity, Consistency, Isolation, and Durability. These properties ensure the reliability and integrity of transactions in a database system, even in the face of errors or system failures."
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of the SQL HAVING clause?",
+        "options": [
+            "To filter rows based on a condition",
+            "To order the result set",
+            "To filter groups based on aggregate values",
+            "To perform calculations on numeric columns"
+        ],
+        "answer": "To filter groups based on aggregate values",
+        "description": "The SQL HAVING clause is used to filter groups of rows based on aggregate values, such as the result of a COUNT, SUM, AVG, MAX, or MIN function. It is typically used in conjunction with the GROUP BY clause to apply conditions to grouped data."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the SQL DISTINCT keyword?",
+        "options": [
+            "To filter rows based on a condition",
+            "To retrieve unique values from a column",
+            "To order the result set",
+            "To limit the number of rows returned by a query"
+        ],
+        "answer": "To retrieve unique values from a column",
+        "description": "The SQL DISTINCT keyword is used to retrieve unique values from a specified column in a SELECT query. It eliminates duplicate values and returns only distinct values, providing a way to identify unique entries in a dataset."
+    }
+]

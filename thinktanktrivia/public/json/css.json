@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "What does CSS stand for in web development?",
+        "options": [
+            "Computer Style Sheets",
+            "Creative Style System",
+            "Cascading Style Sheets",
+            "Colorful Style Scripts"
+        ],
+        "answer": "Cascading Style Sheets",
+        "description": "CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It controls the presentation, layout, and design of web pages, including aspects such as colors, fonts, and spacing."
+    },
+    {
+        "id": 2,
+        "question": "Which CSS property is used for changing the text color of an element?",
+        "options": [
+            "font-family",
+            "background-color",
+            "color",
+            "text-decoration"
+        ],
+        "answer": "color",
+        "description": "The 'color' property in CSS is used for changing the text color of an element. It accepts color values such as names, hex codes, RGB, or HSL values."
+    },
+    {
+        "id": 3,
+        "question": "What is the purpose of the 'box model' in CSS?",
+        "options": [
+            "Creating 3D effects",
+            "Defining layout properties",
+            "Managing animation sequences",
+            "Handling user interactions"
+        ],
+        "answer": "Defining layout properties",
+        "description": "The 'box model' in CSS refers to the way elements are structured in terms of content, padding, border, and margin. It is used for defining the layout properties of elements, influencing their positioning and spacing within a web page."
+    },
+    {
+        "id": 4,
+        "question": "Which CSS property is used for adding space between elements' borders?",
+        "options": [
+            "margin",
+            "padding",
+            "border-spacing",
+            "spacing"
+        ],
+        "answer": "margin",
+        "description": "The 'margin' property in CSS is used for adding space between elements' borders. It sets the space outside the element's border, providing clearance between adjacent elements."
+    },
+    {
+        "id": 5,
+        "question": "What is the purpose of the 'float' property in CSS?",
+        "options": [
+            "Creating transparent backgrounds",
+            "Positioning elements within a container",
+            "Animating elements",
+            "Styling text content"
+        ],
+        "answer": "Positioning elements within a container",
+        "description": "The 'float' property in CSS is used for positioning elements within a container. It allows an element to be taken out of the normal flow and positioned to the left or right of its containing element."
+    },
+    {
+        "id": 6,
+        "question": "Which CSS selector is used to select elements with a specific class?",
+        "options": [
+            ".class",
+            "#id",
+            ":class",
+            "<class>"
+        ],
+        "answer": ".class",
+        "description": "The '.class' selector in CSS is used to select elements with a specific class. It targets elements that have the specified class attribute."
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of the 'z-index' property in CSS?",
+        "options": [
+            "Changing font size",
+            "Controlling the visibility of an element",
+            "Controlling the stacking order of elements",
+            "Setting the width of an element"
+        ],
+        "answer": "Controlling the stacking order of elements",
+        "description": "The 'z-index' property in CSS is used for controlling the stacking order of elements. It determines the order in which positioned elements overlap within a containing element."
+    },
+    {
+        "id": 8,
+        "question": "What is the default value of the 'position' property in CSS?",
+        "options": [
+            "static",
+            "relative",
+            "absolute",
+            "fixed"
+        ],
+        "answer": "static",
+        "description": "The default value of the 'position' property in CSS is 'static'. It means that the element is positioned according to the normal flow of the document, and the top, right, bottom, and left properties have no effect."
+    },
+    {
+        "id": 9,
+        "question": "Which CSS property is used for creating a shadow effect on text?",
+        "options": [
+            "text-shadow",
+            "box-shadow",
+            "shadow-effect",
+            "font-shadow"
+        ],
+        "answer": "text-shadow",
+        "description": "The 'text-shadow' property in CSS is used for creating a shadow effect on text. It allows you to add a shadow behind the text, specifying the color, offset, and blur radius of the shadow."
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of the 'media queries' in CSS?",
+        "options": [
+            "Changing the font family",
+            "Applying styles based on device characteristics",
+            "Creating animation sequences",
+            "Adding spacing between elements"
+        ],
+        "answer": "Applying styles based on device characteristics",
+        "description": "Media queries in CSS are used for applying styles based on device characteristics, such as screen width, height, and resolution. They allow developers to create responsive designs that adapt to different devices."
+    }
+]
