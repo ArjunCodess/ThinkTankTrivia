@@ -5,7 +5,7 @@ import App from './App';
 import Home from './components/Home';
 import Quiz from './components/Quiz';
 import About from "./components/About";
-import Catalog from "./components/Catalog";
+import Catalogue from "./components/Catalogue";
 import Features from "./components/Features";
 
 import {
@@ -28,7 +28,7 @@ const router = createBrowserRouter([
       },
       {
         path: '/quiz',
-        element: <Catalog />
+        element: <Catalogue />
       },
       {
         path: '/quiz/html',
