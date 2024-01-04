@@ -102,7 +102,7 @@ const Quiz = ({ quiz }) => {
   return (
     <section className="pb-10">
       <QuizHeader timer={timer} questions={questions} />
-      <div className="md:w-9/12 w-[90%] flex md:flex-row flex-col mx-auto">
+      <div className="md:w-9/12 w-[90%] flex md:flex-row flex-col-reverse mx-auto">
         {/* question section */}
         <div className="md:w-[70%] w-full">
           <div>
